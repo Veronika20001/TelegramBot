@@ -1,0 +1,1096 @@
+INFO:aiogram:Bot: veron_boot [@veron_pyt_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: veron_boot [@veron_pyt_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: veron_boot [@veron_pyt_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: veron_boot [@veron_pyt_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-16 21:51:51,239] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-16 21:51:51,380] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-16 21:51:51,380] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-16 21:51:53,252] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-16 21:51:53,254] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-16 21:56:50,526] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-16 21:56:50,659] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-16 21:56:50,660] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-16 21:56:58,158] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-16 21:56:58,160] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-18 19:24:20,116] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-18 19:24:20,270] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-18 19:24:20,271] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-18 19:24:47,999] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-18 19:24:48,032] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-18 19:39:58,070] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-18 19:39:58,172] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-18 19:39:58,173] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-18 19:43:43,386] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-18 19:43:43,388] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:06:41,770] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:06:41,879] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:06:41,879] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:07:13,612] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:07:13,613] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:30:44,937] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:30:45,085] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:30:45,085] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:31:04,512] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:31:04,514] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:31:07,236] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:31:07,344] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:31:07,345] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:31:15,969] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:31:15,970] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:32:05,281] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:32:05,391] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:32:05,392] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:38:28,281] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:38:28,312] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:39:56,114] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:39:56,223] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:39:56,224] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:44:20,611] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:44:20,619] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:44:27,565] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:44:27,676] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:44:27,677] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:44:38,480] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:44:38,482] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:46:54,478] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:46:54,580] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:46:54,581] Start polling.
+base_events.py [LINE:1744 #ERROR    [2022-11-20 01:46:56,625] Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Message' object has no attribute 'txt'")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 59, in get_message
+    if message.txt == "Информация":
+AttributeError: 'Message' object has no attribute 'txt'
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:48:51,965] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:48:51,966] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:51:04,778] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:51:04,888] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:51:04,889] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:51:30,935] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:51:30,937] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:51:33,298] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:51:33,404] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:51:33,404] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:51:50,379] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:51:50,381] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 01:52:32,815] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 01:52:32,924] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 01:52:32,925] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 01:59:32,509] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 01:59:32,530] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 02:07:05,728] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 02:07:05,840] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 02:07:05,841] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 02:07:34,161] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 02:07:34,303] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 02:08:00,596] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 02:08:00,700] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 02:08:00,701] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 02:08:05,539] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 02:08:05,541] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 02:10:49,332] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 02:10:49,435] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 02:10:49,436] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 02:11:07,027] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 02:11:07,029] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 02:11:10,430] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 02:11:10,538] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 02:11:10,539] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 02:11:33,474] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 02:11:33,475] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 02:11:52,785] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 02:11:52,888] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 02:11:52,889] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 02:39:37,460] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 02:39:37,464] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:01:27,060] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:01:27,182] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:01:27,183] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:01:45,826] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:01:45,836] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:06:04,783] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:06:04,893] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:06:04,894] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:06:15,974] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:06:15,976] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:14:56,049] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:14:56,173] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:14:56,174] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:15:58,676] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:15:58,677] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:16:01,410] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:16:01,530] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:16:01,531] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:16:20,855] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:16:20,857] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:17:20,053] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:17:20,161] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:17:20,162] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:17:22,129] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:17:22,132] Goodbye!
+executor.py [LINE:362 #INFO     [2022-11-20 15:17:25,468] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358 #WARNING  [2022-11-20 15:17:25,573] Updates were skipped successfully.
+dispatcher.py [LINE:358 #INFO     [2022-11-20 15:17:25,573] Start polling.
+dispatcher.py [LINE:433 #INFO     [2022-11-20 15:20:18,308] Stop polling...
+executor.py [LINE:329 #WARNING  [2022-11-20 15:20:18,333] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 15:20:56,393] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 15:20:56,497] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 15:20:56,498] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 15:21:10,156] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 15:21:10,158] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 15:35:47,959] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 15:35:48,062] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 15:35:48,063] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 15:51:05,315] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 15:51:05,317] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 15:51:53,239] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 15:51:53,346] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 15:51:53,347] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 15:52:11,934] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 15:52:11,936] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 15:54:40,371] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 15:54:40,483] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 15:54:40,483] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 15:54:56,119] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 15:54:56,120] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:06:03,411] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:06:03,529] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:06:03,530] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:06:41,917] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:06:41,918] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:07:16,507] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:07:16,617] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:07:16,618] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:07:40,015] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:07:40,018] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:08:33,194] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:08:33,303] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:08:33,304] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:09:52,975] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:09:52,976] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:09:56,348] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:09:56,469] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:09:56,469] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-20 16:09:57,727] Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'urlkb' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 56, in url_command
+    await message.reply('Полезные ссылки:', reply_markup=urlkb)
+NameError: name 'urlkb' is not defined
+base_events.py [LINE:1744] #ERROR    [2022-11-20 16:10:00,918] Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'urlkb' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 56, in url_command
+    await message.reply('Полезные ссылки:', reply_markup=urlkb)
+NameError: name 'urlkb' is not defined
+base_events.py [LINE:1744] #ERROR    [2022-11-20 16:10:10,607] Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'urlkb' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 56, in url_command
+    await message.reply('Полезные ссылки:', reply_markup=urlkb)
+NameError: name 'urlkb' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:10:13,665] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:10:13,667] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:11:59,704] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:11:59,807] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:11:59,807] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:12:23,459] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:12:23,461] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 16:12:43,013] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 16:12:43,115] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 16:12:43,116] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 16:15:39,687] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 16:15:39,689] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 18:11:51,325] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 18:11:51,973] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 18:11:51,974] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 18:25:40,943] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 18:25:40,952] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 18:41:16,972] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 18:41:17,674] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 18:41:17,675] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 18:54:04,504] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 18:54:04,510] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 18:55:20,315] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 18:55:21,316] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 18:55:21,317] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 18:55:29,634] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 18:55:29,636] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 18:55:35,321] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 18:55:36,089] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 18:55:36,091] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 18:57:06,563] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 18:57:06,564] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 19:22:49,237] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 19:22:49,364] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 19:22:49,365] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 19:22:51,449] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 19:22:51,451] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 19:23:11,982] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 19:23:12,092] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 19:23:12,093] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 19:23:27,019] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 19:23:27,023] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 19:43:27,659] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 19:43:27,776] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 19:43:27,777] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 19:43:45,579] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 19:43:45,581] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:00:10,923] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:00:11,055] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:00:11,055] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:07:48,365] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:07:48,372] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:36:29,201] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:36:29,404] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:36:29,405] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:43:09,346] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:43:09,353] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:46:24,509] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:46:24,616] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:46:24,617] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:46:34,629] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:46:34,656] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:47:06,561] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:47:06,696] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:47:06,697] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:48:07,116] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:48:07,123] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:48:11,508] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:48:11,618] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:48:11,618] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:50:26,702] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:50:26,704] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:50:40,287] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:50:40,403] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:50:40,403] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:52:47,728] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:52:47,734] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:52:54,400] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:52:54,509] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:52:54,510] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:53:46,976] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:53:46,977] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-20 20:53:57,058] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-20 20:53:57,166] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-20 20:53:57,166] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-20 20:56:31,251] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-20 20:56:31,253] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-21 01:20:17,970] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-21 01:20:18,093] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-21 01:20:18,095] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-21 01:25:30,796] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-21 01:25:30,797] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-21 01:25:34,110] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-21 01:25:34,215] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-21 01:25:34,216] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-21 01:28:21,242] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-21 01:28:21,244] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:28:26,735] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:28:26,854] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:28:26,855] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:32:44,173] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:32:44,175] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:32:49,248] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:32:49,403] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:32:49,404] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:33:03,548] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:33:03,550] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:33:36,710] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:33:36,862] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:33:36,863] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:34:04,667] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:34:04,670] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:34:08,506] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:34:08,617] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:34:08,618] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:34:26,546] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:34:26,549] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:52:11,806] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:52:11,906] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:52:11,907] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:52:20,232] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:52:20,234] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 01:52:54,009] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 01:52:54,122] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 01:52:54,123] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 01:53:08,236] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 01:53:08,238] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 18:43:09,085] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 18:43:09,210] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 18:43:09,211] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 18:44:45,079] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 18:44:45,083] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 18:52:20,190] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 18:52:20,297] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 18:52:20,297] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 18:52:25,381] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 18:52:25,383] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 18:58:55,173] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 18:58:55,283] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 18:58:55,283] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:02:54,273] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:02:54,275] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:02:58,775] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:02:58,883] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:02:58,883] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:03:44,867] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:03:44,870] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:04:04,694] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:04:04,801] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:04:04,802] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:05:41,051] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:05:41,052] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:07:24,040] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:07:24,157] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:07:24,157] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:09:11,617] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:09:11,618] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:10:13,778] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:10:13,909] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:10:13,909] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:10:19,488] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:10:19,491] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:10:24,121] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:10:24,240] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:10:24,240] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:11:29,897] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:11:29,899] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:12:12,559] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:12:12,676] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:12:12,677] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:13:03,552] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:13:03,553] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-22 19:15:59,800] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-22 19:15:59,906] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-22 19:15:59,907] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-22 19:17:48,769] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-22 19:17:48,771] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:09:43,736] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:09:43,905] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:09:43,906] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:10:17,166] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:10:17,168] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:21:30,483] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:21:30,608] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:21:30,609] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:21:46,385] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:21:46,387] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:28:12,791] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:28:12,932] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:28:12,932] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:28:33,179] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:28:33,180] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:33:12,298] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:33:12,429] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:33:12,430] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:34:18,233] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:34:18,234] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:34:22,774] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:34:22,925] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:34:22,926] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:34:28,449] Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 188, in show
+    text=f'Ваш id: {message.from_user.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:34:33,525] Task exception was never retrieved
+future: <Task finished name='Task-33' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 188, in show
+    text=f'Ваш id: {message.from_user.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:34:37,241] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:34:37,242] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:37:23,905] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:37:24,039] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:37:24,040] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:37:26,524] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 189, in show
+    text=f'Ваш id: {message.chat.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:37:32,654] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:37:32,656] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:38:10,893] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:38:11,025] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:38:11,025] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:38:13,218] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'user' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 189, in show
+    text=f'Ваш id: {user.id}', parse_mode='Markdown')
+NameError: name 'user' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:38:16,402] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:38:16,404] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:39:18,645] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:39:18,776] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:39:18,777] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:39:26,007] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 189, in show
+    text=f'Ваш id: {message.from_user.username}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:39:33,327] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:39:33,438] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:42:41,715] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:42:41,843] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:42:41,843] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:42:45,539] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 189, in show
+    text=f'Ваш id: {message.from_user.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:42:50,848] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:42:50,850] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:45:50,079] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:45:50,230] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:45:50,231] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:45:53,226] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'_io.TextIOWrapper' object has no attribute 'message'")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 190, in show
+    text=f'Ваш id: {us.message.from_user.id}', parse_mode='Markdown')
+AttributeError: '_io.TextIOWrapper' object has no attribute 'message'
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:45:56,149] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:45:56,151] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:48:45,556] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:48:45,689] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:48:45,690] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:48:59,839] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:48:59,841] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 19:53:38,619] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 19:53:38,750] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 19:53:38,751] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:53:40,933] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 190, in show
+    text=f'Ваш id: {message.chat.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+base_events.py [LINE:1744] #ERROR    [2022-11-23 19:53:45,001] Task exception was never retrieved
+future: <Task finished name='Task-25' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 190, in show
+    text=f'Ваш id: {message.chat.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 19:53:48,877] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 19:53:48,879] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:03:29,222] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:03:29,362] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:03:29,363] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:03:31,168] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 190, in show
+    text=f'Ваш id: {message.from_user.id}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:03:37,530] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:03:37,532] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:04:57,919] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:04:58,055] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:04:58,055] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:05:00,989] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'callback_query' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 190, in show
+    text=f'Ваш id: {callback_query.from_user.id}', parse_mode='Markdown')
+NameError: name 'callback_query' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:06:20,271] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:06:20,273] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:06:23,673] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:06:23,801] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:06:23,802] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:06:25,769] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'callback_query' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 195, in show
+    await callback_query.answer(chat_id=call.message.chat.id, message_id=call.message.message_id,
+NameError: name 'callback_query' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:06:28,211] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:06:28,213] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:08:00,989] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:08:01,120] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:08:01,120] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:08:03,757] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'callback_query' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 195, in show
+    await callback_query.answer(chat_id=call.message.chat.id, message_id=call.message.message_id,
+NameError: name 'callback_query' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:08:05,871] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:08:05,873] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:08:28,478] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:08:28,610] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:08:28,611] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:08:30,183] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 196, in show
+    text=f'Ваш id: {get_message(message.from_user.id)}', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:11:18,296] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:11:18,297] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:13:57,190] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:13:57,315] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:13:57,316] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:14:00,224] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:14:32,816] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:14:32,818] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:14:39,336] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:14:39,469] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:14:39,470] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:15:38,501] Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:17:12,292] Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:19:32,016] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:19:32,018] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:19:35,283] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:19:35,414] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:19:35,414] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:19:38,321] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:19:49,729] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:19:49,731] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:19:53,308] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:19:53,436] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:19:53,437] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:19:55,634] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:19:58,216] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:19:58,217] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:22:29,215] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:22:29,374] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:22:29,374] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:22:42,225] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 200, in show
+    if not str(message.chat.id) in joinedUser:  # делаем запись в файл нового id
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:22:45,664] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:22:45,699] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:25:03,380] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:25:03,617] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:25:03,618] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:25:05,673] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'str' object has no attribute 'message'")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 199, in show
+    text=f'Ваш id: *{file.message.from_user.id}*', parse_mode='Markdown')
+AttributeError: 'str' object has no attribute 'message'
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:25:10,492] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:25:10,494] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:25:49,267] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:25:49,394] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:25:49,395] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:25:50,906] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'_io.TextIOWrapper' object has no attribute 'message'")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 202, in show
+    text=f'Ваш id: *{joinedFile.message.from_user.id}*', parse_mode='Markdown')
+AttributeError: '_io.TextIOWrapper' object has no attribute 'message'
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:25:53,075] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:25:53,077] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:26:38,465] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:26:38,601] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:26:38,602] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:26:46,133] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:26:46,135] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:31:23,491] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:31:23,634] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:31:23,634] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:31:29,073] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 198, in show
+    text=f'Ваш id: *{message.from_user.id}*', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:31:34,512] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:31:34,513] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:32:24,558] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:32:24,721] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:32:24,722] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:32:28,863] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 198, in show
+    text=f'Ваш id: *{message.from_user.id}*', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:32:50,120] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:32:50,123] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:32:54,259] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:32:54,392] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:32:54,392] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:32:58,630] Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 198, in show
+    text=f'Ваш id: *{message.from_user.id}*', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:35:43,717] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:35:43,725] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:35:47,393] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:35:47,518] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:35:47,519] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:36:00,347] Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("Bot.send_photo() missing 1 required positional argument: 'photo'")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 169, in get_message
+    await bot.send_photo(open('cat.png', 'rb'))
+TypeError: Bot.send_photo() missing 1 required positional argument: 'photo'
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:36:58,677] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:36:58,679] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:38:47,118] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:38:47,249] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:38:47,250] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:39:17,661] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:39:17,663] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:39:21,460] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:39:21,591] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:39:21,592] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:39:57,385] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:39:57,387] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:40:29,953] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:40:30,084] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:40:30,085] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:40:33,991] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:40:33,993] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:40:38,339] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:40:38,486] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:40:38,487] Start polling.
+base_events.py [LINE:1744] #ERROR    [2022-11-23 20:40:40,498] Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "E:\PyProject\TgBot\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "E:\PyProject\TgBot\veron_boot\main.py", line 199, in show
+    text=f'Ваш id: *{message.chat.from_user.id}*', parse_mode='Markdown')
+NameError: name 'message' is not defined
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:45:47,078] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:45:47,080] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:45:51,878] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:45:52,015] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:45:52,015] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:45:52,643] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:45:52,645] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:45:58,001] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:45:58,139] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:45:58,140] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:46:17,601] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:46:17,603] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:51:49,386] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:51:49,525] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:51:49,526] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:52:06,326] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:52:06,339] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:52:10,528] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:52:10,659] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:52:10,660] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:52:34,563] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:52:34,565] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:52:39,204] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:52:39,355] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:52:39,356] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:53:13,652] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:53:13,654] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:54:20,398] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:54:20,533] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:54:20,533] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:58:24,670] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:58:24,672] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 20:58:59,866] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 20:59:00,031] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 20:59:00,032] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 20:59:12,224] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 20:59:12,226] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:05:16,201] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:05:16,347] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:05:16,347] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:13:38,253] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:13:38,260] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:14:04,206] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:14:04,338] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:14:04,339] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:15:24,469] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:15:24,470] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:18:18,642] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:18:18,787] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:18:18,788] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:24:09,144] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:24:09,146] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:24:13,860] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:24:13,997] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:24:13,998] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:24:38,284] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:24:38,286] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:24:41,771] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:24:41,900] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:24:41,901] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:25:32,140] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:25:32,142] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:39:49,309] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:39:49,444] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:39:49,445] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:40:22,340] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:40:22,342] Goodbye!
+executor.py [LINE:362] #INFO     [2022-11-23 21:48:41,048] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2022-11-23 21:48:41,181] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2022-11-23 21:48:41,182] Start polling.
+dispatcher.py [LINE:433] #INFO     [2022-11-23 21:49:56,731] Stop polling...
+executor.py [LINE:329] #WARNING  [2022-11-23 21:49:56,732] Goodbye!
+executor.py [LINE:362] #INFO     [2023-02-14 21:15:34,661] Bot: veron_boot [@veron_pyt_bot]
+executor.py [LINE:358] #WARNING  [2023-02-14 21:15:34,795] Updates were skipped successfully.
+dispatcher.py [LINE:358] #INFO     [2023-02-14 21:15:34,795] Start polling.
+dispatcher.py [LINE:433] #INFO     [2023-02-14 21:16:21,567] Stop polling...
+executor.py [LINE:329] #WARNING  [2023-02-14 21:16:21,569] Goodbye!
